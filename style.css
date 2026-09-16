@@ -1,0 +1,32 @@
+body{
+    font-family: Arial;
+    background-color: lightwhite;
+    colour:rgb(61, 58, 58);
+    margin: 20px;
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,td{
+    padding: 10px;
+    text-align: center;
+}
+
+form{
+    background: white;
+    padding: 15px;
+    width: 300px;
+}
